@@ -1,4 +1,4 @@
-import * as Punycode from 'punycode';
+import * as Punycode from 'punycode/';
 import { expect } from '@hapi/code';
 import * as Lab from '@hapi/lab';
 
